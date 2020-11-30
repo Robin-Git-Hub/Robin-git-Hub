@@ -13,7 +13,7 @@ Bisou 😜 🚴‍♂️ ⛰️
 
  ## 🏄‍♂️ Qui Suis-je ? Plus sérieusement 
 
-Je suis un jeune développeur à la recherche de projets stimulants avec comme maître mots la communication, la confiance et la productivité.
+Je suis un jeune développeur à la recherche de projets stimulants avec comme maîtres-mots la communication, la confiance et la productivité.
 
 Après une carrière dans l'audiovisuel en tant que Régisseur dans la logistique de tournage 🎥 , je me suis reconvertit dans le Développement Web me permettant de m'amener vers de nouveaux horizons professionnel 👨‍💻.
 
