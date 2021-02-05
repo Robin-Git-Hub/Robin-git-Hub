@@ -1,4 +1,4 @@
-# Salut à toi, Jeune Start-up 🔥
+# Salut à toi, Jeune Start-up 🔥 <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/235/235394.svg" alt="Raccoon">
 
 Voici mon nouvelle espace de création, d'expérimentation et de découverte...
 
