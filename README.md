@@ -2,7 +2,7 @@
 
 Voici mon nouvelle espace de création, d'expérimentation et de découverte...
 
-Alors, tu préfères chercher la Licorne à trois tête 🦄 ( et peut-être des millions de pattes, on peut imaginer se que l'on veut ...) pendant des mois, où recruter un jeune développeur avec l'envie d'apprendre tout les jours et se mettre au service d'une Team et d'un projet à forte scalabilité...
+Alors, tu préfères chercher la Licorne à trois tête 🦄 ( et peut-être des millions de pattes, on peut imaginer se que l'on veut ...) pendant des mois, où recruter un jeune développeur avec l'envie d'apprendre tout les jours et se mettre au service d'un produit.
 
 Alors n'hésite pas à me contacter   **[ici](crochetrobin@gmail.com)** et là
 **[<img height="20" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Linkedin">](https://www.linkedin.com/in/robincrochet/)**
@@ -40,7 +40,5 @@ Après une carrière dans l'audiovisuel en tant que Régisseur dans la logistiqu
 * **[Twitch Clone](https://twitchhhclone.herokuapp.com/)**  
 
 ## Mon trafic
-
- Si l'envie vous dit de prendre un café : cliquez-ici =>**[<img height="20" src="https://www.flaticon.com/svg/static/icons/svg/1046/1046836.svg" alt="Buy Me A Coffee">](https://www.buymeacoffee.com/crochetrobin)**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Robin-Git-Hub&count_private=true&show_icons=true&theme=algolia)
