@@ -4,7 +4,7 @@ Voici mon nouvelle espace de création, d'expérimentation et de découverte...
 
 Alors, tu préfères chercher la Licorne à trois tête 🦄 ( et peut-être des millions de pattes, on peut imaginer se que l'on veut ...) pendant des mois, où recruter un jeune développeur avec l'envie d'apprendre tout les jours et se mettre au service d'un produit.
 
-Alors n'hésite pas à me contacter   **[ici](crochetrobin@gmail.com)** et là
+Alors n'hésite pas à me contacter   **[crochetrobin@gmail.com](crochetrobin@gmail.com)** et là
 **[<img height="20" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Linkedin">](https://www.linkedin.com/in/robincrochet/)**
 
 Bisou 😜 🚴‍♂️ ⛰️
