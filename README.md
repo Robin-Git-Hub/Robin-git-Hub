@@ -1,4 +1,4 @@
-# Salut à toi, Jeune Start-up 🔥 <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/235/235394.svg" alt="Raccoon">
+# Salut à toi 🔥 <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/235/235394.svg" alt="Raccoon">
 
 Voici mon nouvelle espace de création, d'expérimentation et de découverte...
 
@@ -7,11 +7,11 @@ Alors, tu préfères chercher le mouton à 5 pattes pendant des mois, où recrut
 Alors n'hésite pas à me contacter   **[crochetrobin@gmail.com](crochetrobin@gmail.com)** et là
 **[<img height="20" src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" alt="Linkedin">](https://www.linkedin.com/in/robincrochet/)**
 
-Bisou 😜 🚴‍♂️ ⛰️
+A bientôt 😜 🚴‍♂️ ⛰️
 
  ## 🏄‍♂️ Qui Suis-je ? Plus sérieusement 
 
-Je suis un jeune développeur à la recherche de projets stimulants avec comme maîtres-mots la communication, la confiance et la productivité.
+Je suis un jeune développeur à la recherche de projets stimulants avec comme maîtres-mots la communication, la confiance et la découverte.
 
 Après une carrière dans l'audiovisuel en tant que Régisseur dans la logistique de tournage 🎥 , je me suis reconverti dans le Développement Web me permettant de m'amener vers de nouveaux horizons professionnel 👨‍💻.
 
@@ -31,7 +31,7 @@ Après une carrière dans l'audiovisuel en tant que Régisseur dans la logistiqu
 
 #### 🏄‍♂️ Mes loisirs :
 * Surf
-* Développement personnel
+* Crypto-monnaies, BlockChain
 
 #### Experiences Pro:
 * **[K-Reer](https://k-reer.herokuapp.com/)**  
