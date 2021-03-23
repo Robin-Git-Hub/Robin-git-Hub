@@ -1,4 +1,4 @@
-# Salut,🔥 <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/235/235394.svg" alt="Raccoon">
+# 🔥 Salut,
 
 Voici mon nouvelle espace de création, d'expérimentation et de découverte...
 
