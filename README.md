@@ -1,4 +1,4 @@
-# 🔥 Salut,
+# 🔥 Hello,
 
 Voici mon nouvelle espace de création, d'expérimentation et de découverte...
 
