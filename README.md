@@ -24,7 +24,7 @@ Après une carrière dans l'audiovisuel en tant que Régisseur dans la logistiqu
 
 
 #### 📖 Les technos que j'apprends en ce moment :
-* ReactJS / Node.js
+* Node.js / Next.js
 * Cryptomonnaie
 
 #### 🏄‍♂️ Mes loisirs :
