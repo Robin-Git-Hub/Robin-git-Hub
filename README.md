@@ -17,7 +17,7 @@ Après une carrière dans l'audiovisuel en tant que Régisseur dans la logistiqu
 
 ### Techniques
 
-🔌 Mes technos :
+#### 🔌 Mes technos :
 * Js <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/541/541509.svg" alt="Js">
 * ReactJs <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/919/919851.svg" alt="React"> / Redux
 * Ruby <img height="20" src="https://www.flaticon.com/svg/static/icons/svg/919/919842.svg" alt="Ruby"> / Rails <img height="20" src="https://www.logosurfer.com/wp-content/uploads/2018/03/ruby-on-rails-logo_0.png"  alt="Ruby on Rails Logo" />
